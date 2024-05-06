@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshayas1011
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning java
+- 👀 I’m interested in java
+- 🌱 I’m currently learning springboot
 - 💞️ I’m looking to collaborate on java developer
 - 📫 How to reach me akshayas_it20@velhightech.com
 
